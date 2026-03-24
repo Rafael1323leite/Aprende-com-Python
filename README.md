@@ -4,7 +4,7 @@ Todos os projetos são de uso totalmente livre.
 ## **Porque criei este repositório ?**
 Criei este repositório para faciliatr a partilhar destes tipos de ficheiros e projetos, prontos e funcional para a escola.
 
-## Ano de Escolaridade Atual dos ficheiro
+## Ano de Escolaridade Atual dos ficheiros
  Atualmente 10ºano de acordo com a matéria do programa de Matemática A a ser lecionada durante o Ano Letivo 2024/2025 em Portugal.
 
 ## Escrevo os códigos eu mesmo ?
@@ -14,6 +14,7 @@ Criei este repositório para faciliatr a partilhar destes tipos de ficheiros e p
 ## Estes códigos funcionam na minha calculadora gráfica ?
 
 Sim, eles são feitos para funcionarem nas calculadoras gráficas. Podendo ser:
+
  ***TI-nspire CX II-T***
  ***Numworks***
 
