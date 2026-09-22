@@ -2,10 +2,12 @@
 Todos os projetos são de uso totalmente livre. 
 
 ## **Porque criei este repositório ?**
-Criei este repositório para faciliatr a partilhar destes tipos de ficheiros e projetos, prontos e funcional para a escola.
+Criei este repositório para faciliatr a partilha deste tipo de ficheiros e projetos, prontos e funcionais para a escola.
 
 ## Ano de Escolaridade Atual dos ficheiros
- Atualmente 10ºano de acordo com a matéria do programa de Matemática A a ser lecionada durante o Ano Letivo 2024/2025 em Portugal.
+ 10ºano de acordo com a matéria do programa de Matemática A a ser lecionada durante o Ano Letivo 2024/2025 em Portugal.
+ 11ºano de acordo com a matéria do programa de Matemática A a ser lecionada durante o Ano Letivo 2025/2026 em Portugal.
+ 
 
 ## Escrevo os códigos eu mesmo ?
 
@@ -19,6 +21,6 @@ Sim, eles são feitos para funcionarem nas calculadoras gráficas. Podendo ser:
  ***Numworks***
 
 ## **Importante**
-Eu não sou um programador, isto são projetos amadores criados por vontade própia no meu tempo livre por diversão e para Trabalhos escolares da Disciplina Matemática A.
+Eu não sou um programador, isto são projetos amadores criados por vontade própia no meu tempo livre por diversão e para Trabalhos escolares da disciplina Matemática A.
 
-Feito por Rafael Leite  ©2026
+Feito por Rafael Leite©2026
