@@ -1,0 +1,10 @@
+import math
+Vu = input("Coordenadas 1º Vetor (x y z)")
+xu, yu, zu = map(float, Vu.split())
+Vv = input("Coordenadas 2º Vetor (x y z)")
+xv, yv, zv = map(float, Vv.split())
+e = (xu * xv) + (yu * yv) + (zu * zv)
+nu = float(math.sqrt(xu**2 + yu**2 + zu**2))
+nv = float(math.sqrt(xv**2 + yv**2 + zv**2))
+a = math.acos( e / (nu * nv) )
+print ("Ângulo entre os vetores: ", math.degrees(a), "graus")
