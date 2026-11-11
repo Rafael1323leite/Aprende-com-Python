@@ -1,5 +1,3 @@
-#Códigos feitos por mim e modificados pelo 
-#Github Copilot para funcionarem em conjunto
 #%Votos Válidos
 def votos_validos():
     Vv = float(input("Nº de votos válidos "))
@@ -21,7 +19,7 @@ def votos_nulos():
     P = Vn / Tv * 100
     print("Percentagem de votos nulos ", P)
 
-#%Menu criado com ajuda do Github Copilot
+#Display Menu
 def menu():
     print("Selecione uma opção:")
     print("1. Calcular percentagem de votos válidos")

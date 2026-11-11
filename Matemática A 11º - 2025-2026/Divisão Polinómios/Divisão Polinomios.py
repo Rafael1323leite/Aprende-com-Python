@@ -2,7 +2,7 @@ from minicas import *
 
 print("--- Divisor de Polinómios ---")
 print("Introduzir de Menor potência para a maior.")
-print("Exemplo: 2x^2 - 4 é [-4, 0, 2]")
+print("Exemplo: 2x^2 - 4 é [-4 0 2]")
 
 n_input = input("Coeficientes Numerador (sep por espaço): ").split()
 num = [float(x) for x in n_input]

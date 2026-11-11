@@ -1,5 +1,3 @@
-#Códigos feitos por mim e modificados pelo 
-#Github Copilot para funcionarem em conjunto
 #Juros Simples
 def juro_simples():
     Ci = float(input("Capital Inicial: "))
@@ -24,13 +22,12 @@ def juros_compostos():
 def juros_capital_mensal():
     Ci = float(input("Capital Inicial: "))
     r = float(input("Taxa de Juro anual(%): "))
-    n = float(input("N° de anos: "))
+    n = float(input("N° de meses: "))
     Jcm = Ci * (1 + (( r / 100)/12)) ** n - Ci
     Cfm = Ci + Jcm
-    print("Juro ao fim de", n, "anos: ", Jcm)
-    print("Capital acumulado ao fim de", n, "anos: ", Cfm)
-
-#%Menu criado com ajuda do Github Copilot
+    print("Juro ao fim de", n, "meses: ", Jcm)
+    print("Capital acumulado ao fim de", n, "meses: ", Cfm)
+#Display Menu
 def menu():
     print("Selecione uma opção:")
     print("1. Juros Simples")
